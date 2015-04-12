@@ -6,7 +6,7 @@
 
 ## Run
 
-    docker up
+    docker-compose up
 
 or
 
